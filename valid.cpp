@@ -2,7 +2,7 @@
 Author: Deziah Gayle
 Course: CSCI-135
 Instructor: Mike Z.; Genedy M.
-Assignment: title: Lab 2a
+Assignment: Lab 2a
 
 Input Valdiation
 */
