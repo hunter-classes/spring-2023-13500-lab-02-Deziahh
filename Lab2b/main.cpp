@@ -15,5 +15,9 @@ int main() {
     int upper = 44;
     print_interval(lower, upper-1);
     
+    int lower2 = 1;
+    int upper2 = 5;
+    print_interval(lower2, upper2-1);
+    
     return 0;
 }
