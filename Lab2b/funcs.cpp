@@ -11,7 +11,7 @@ Print all integers from the requested interval
 #include "funcs.h"
 
 void print_interval(int L, int U) {
-    for (int i = L; i <= U; i++) {
+    for (int i = L; i < U; i++) {
         int result = i;
         std::cout << result << " ";
       }
