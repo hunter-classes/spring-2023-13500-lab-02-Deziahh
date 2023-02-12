@@ -11,12 +11,9 @@ Print all integers from the requested interval
 #include "funcs.h"
 
 int main() {
-  int lower, upper;
-  std::cout << "Enter the lower limit: ";
-  std::cin >> lower;
-  std::cout << "Enter the upper limit: ";
-  std::cin >> upper;
+    int lower = 4;
+    int upper = 44;
+    print_interval(lower, upper-1);
     
-  print_interval(lower, upper-1);
-  return 0;
+    return 0;
 }
