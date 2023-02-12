@@ -3,7 +3,8 @@ Author: Deziah Gayle
 Course: CSCI-135
 Instructor: Mike Z.; Genedy M.
 Assignment: Lab 2C
-Input Valdiation
+ 
+ Using arrays to store, update, and retrieve numbers
 */
 
 #include <stdio.h>
